@@ -10,6 +10,7 @@ We have partnered with [FlekSt0re](https://flekstore.com/EpicGames)! They are pr
 ---
 
 # Fortnite
+![IMG_1280](https://github.com/user-attachments/assets/4a4e9cbf-62bb-4271-83a6-f60fa319505e)
 
 ## Installation Issues
 Fortnite may crash on installation unless you're using **TrollStore or a paid developer certificate**. Due to an Apple limitation that cannot be bypassed.
@@ -26,6 +27,7 @@ For users with their own paid certificate:
 ---
 
 # Fall Guys
+![IMG_1282](https://github.com/user-attachments/assets/f0901cba-76c8-4a97-b35f-47b3964d2e7b)
 
 ## How to Install
 Unlike Fortnite, Fall Guys doesn't require special entitlements to play. [Sideloadly](https://sideloadly.io/) without a certificate, etc.
