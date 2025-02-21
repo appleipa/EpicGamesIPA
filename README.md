@@ -36,6 +36,12 @@ Tested iPhone 14 Pro iOS 16.5 TrollStore
 
 ---
 
+### Rocket League Sideswipe can be installed from the App Store
+
+[https://apps.apple.com/app/id1549027048](https://apps.apple.com/app/id1549027048) 
+
+---
+
 ## FAQ
 
 - How do i install Fortnite for free on iOS 16.7+?
