@@ -56,7 +56,7 @@ Tested iPhone 14 Pro iOS 16.5 TrollStore
   - Fortnite performance may be reduced if you have less then 24gb of free space
 
 - How do i install Trollstore?
-  - if you are running iOS 15.0-16.6.1, 17.0 then you can use this guide  
+  - if you are running iOS 14.0b2-16.6.1, 17.0 then you can use this guide  
   [https://ios.cfw.guide/installing-trollstore](https://ios.cfw.guide/installing-trollstore)
 
 ---
